@@ -1,0 +1,369 @@
+{
+  "success": true,
+  "message": "Successfully get the foreign product",
+  "result": {
+    "total": 20,
+    "products": [
+      {
+        "_id": 558415984063,
+        "name": "ខ្សែការពារចង្កៀងចង្កេះរបស់គ្រឿងបន្លាស់គ្រឿងបន្លាស់គ្រឿងបន្លាស់គ្រឿងបន្លាស់គ្រឿងបន្លាស់",
+        "price": {
+          "minPrice": 2.3,
+          "maxPrice": 2.3
+        },
+        "promoPrice": {
+          "minPrice": 2.3,
+          "maxPrice": 2.3
+        },
+        "stock": 7,
+        "sold": 7,
+        "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/1447705/O1CN01S5luVF26mwSKLSZuA_!!1447705.jpg_180x180.jpg",
+        "merchant": "mupe365",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=600570643319"
+      },
+      {
+        "_id": 735580630992,
+        "name": " ទូរស័ព្ទចល័តចាស់ដៃទី 2 - ការតុបតែងទូរស័ព្ទចល័តបុរាណនិងការលួងលោមទូរទស្សន៍មិនត្រូវបានរាប់បញ្ចូលក្នុងរបស់របរដែលគួរឱ្យចាប់អារម្មណ៍នោះទេ",
+        "price": {
+          "minPrice": 3.33,
+          "maxPrice": 3.33
+        },
+        "promoPrice": {
+          "minPrice": 8.33,
+          "maxPrice": 8.33
+        },
+        "stock": 1,
+        "sold": 1,
+        "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/2220618330/O1CN01Lka8vd2BPC9lI8zlK_!!2220618330.jpg_180x180.jpg",
+        "merchant": "lliangzai521",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=558415984063"
+      },
+      {
+        "_id": 554135022934,
+        "name": " ចំណុចទាញខាងឆ្វេងរបស់ក្រុមហ៊ុន Nintendo Switch បានប្តូរចំណុចទាញឆ្វេងឆ្វេងនិងស្តាំកាន់តង្កៀបចំណុចទាញយករបស់អិនអេស",
+        "price": {
+          "minPrice": 1.8,
+          "maxPrice": 1.8
+        },
+        "promoPrice": {
+          "minPrice": 1.97,
+          "maxPrice": 1.97
+        },
+        "stock": 1,
+        "sold": 1,
+        "mainImage": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i2/791217271/TB1o5nfaBTH8KJjy0FiXXcRsXXa_!!0-item_pic.jpg_180x180.jpg",
+        "merchant": "deweyjianyun",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=735580630992"
+      },
+      {
+        "_id": 727623669757,
+        "name": " Switzerland បាននាំចូលឧបករណ៍បញ្ចូលគ្នានៅខាងក្រៅ Victorinox បាននាំចូលឧបករណ៍ចំហៀងយោធាកាំបិតបានរួចផុតពីការប្រដាល់",
+        "price": {
+          "minPrice": 2.5,
+          "maxPrice": 2.5
+        },
+        "promoPrice": {
+          "minPrice": 2.5,
+          "maxPrice": 2.5
+        },
+        "stock": 9,
+        "sold": 9,
+        "mainImage": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i1/1805141092/O1CN014nufOG1JwBMJHlQAF_!!1805141092.jpg_180x180.jpg",
+        "merchant": "edc小站",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=554135022934"
+      },
+      {
+        "_id": 763977857411,
+        "name": " វាសមស្របសម្រាប់កម្មវិធីជំនួយក្តៅប្រព័ន្ធប្រតិបត្តិការ Android -in វិទ្យុកាតធំនិងទូរទស្សន៍ 5G ទូរស័ព្ទចល័តរន្ធដោតស៊ីមខាងក្រៅដើម្បីអានកាតដើម្បីបើកកាតដើម្បីបើកកាតដើម្បីបើកកាត",
+        "price": {
+          "minPrice": 2.02,
+          "maxPrice": 2.02
+        },
+        "promoPrice": {
+          "minPrice": 2.33,
+          "maxPrice": 2.33
+        },
+        "stock": 12,
+        "sold": 12,
+        "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/2212971330325/O1CN01asJahN1EGtdnUoIDu_!!0-item_pic.jpg_180x180.jpg",
+        "merchant": "咖咖吉旗舰店",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=727623669757"
+      },
+      {
+        "_id": 674561018751,
+        "name": " ប័ណ្ណប្រកាសកាតចល័តនិស្សិតចល័តរបស់និស្សិតចល័តចល័តកាតចល័តកាតកាតបេះដូងកាតកាតកាតសាច់ដុំស្បែកកាតកាតស្បែកកាតកាតដែលមានប័ណ្ណប្រកាសការការពាររោងចក្រប្រណាំងគ្រឿងអលង្ការគ្រឿងអលង្ការតាមអ៊ិនធរណេតការការពារការប្តូរគ្រឿងអលង្ការតាមបំណងប្តូរតាមបំណងតាមការប្តូរតាមបំណងតាមការប្តូរតាមបំណងតាមការប្តូរតាមបំណងរបស់រោងចក្រតាមបំណង",
+        "price": {
+          "minPrice": 0.97,
+          "maxPrice": 0.97
+        },
+        "promoPrice": {
+          "minPrice": 1.13,
+          "maxPrice": 1.13
+        },
+        "stock": 66,
+        "sold": 66,
+        "mainImage": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i4/2212756108386/O1CN01SELFO42BoqADEUev1_!!0-item_pic.jpg_180x180.jpg",
+        "merchant": "初赢旗舰店",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=763977857411"
+      },
+      {
+        "_id": 653179631404,
+        "name": " ជំនោររបស់អ៊ឺរ៉ុបនិងអាមេរិកាំងត្រជាក់ zhou yutong គុជខ្យងខ្មៅនិងស Peacheed ច្របាច់ស្រោមទូរស័ព្ទចល័តការតុបតែងទូរស័ព្ទចល័តការតុបតែងទូរស័ព្ទចល័តការតុបតែងទូរស័ព្ទដៃ",
+        "price": {
+          "minPrice": 3.33,
+          "maxPrice": 3.33
+        },
+        "promoPrice": {
+          "minPrice": 4.67,
+          "maxPrice": 4.67
+        },
+        "stock": 1,
+        "sold": 1,
+        "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/3610246023/O1CN01kyQxEE1uMaH5K7qAj_!!3610246023.jpg_180x180.jpg",
+        "merchant": "美丽的堂屋",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=674561018751"
+      },
+      {
+        "_id": 8846842604,
+        "name": " ម៉ាស៊ីនបំបែកសំលេងសំលេងរបស់ Anjubao ឆ្លាតវៃមិនមែនមើលឃើញនៅម៉ាស៊ីន St-101 GM បន្ទប់អគារ 101 ស៊ីក្នុងការចាប់ផ្តើមទ្វារចូល",
+        "price": {
+          "minPrice": 3,
+          "maxPrice": 3
+        },
+        "promoPrice": {
+          "minPrice": 3.83,
+          "maxPrice": 3.83
+        },
+        "stock": 6,
+        "sold": 6,
+        "mainImage": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i3/116617650/O1CN01HN3P8A26NkZhKSYG0_!!116617650.jpg_180x180.jpg",
+        "merchant": "lzy19880808",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=653179631404"
+      },
+      {
+        "_id": 661999718626,
+        "name": " ឧបករណ៍ថែទាំចល័តរបស់អេសអេសអេសអេសអេសអេសអេសអេសអេសអេសអេសអេសអេសអេសអេសអេសអេសអេសអេសអេសអេសអេសអេសអេឡិចត្រូនិចគ្រាប់កម្លាំងបង្វិលជុំដោយស្វ័យប្រវត្តិ",
+        "price": {
+          "minPrice": 3.33,
+          "maxPrice": 3.33
+        },
+        "promoPrice": {
+          "minPrice": 3.33,
+          "maxPrice": 3.33
+        },
+        "stock": 6,
+        "sold": 6,
+        "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/651807276/O1CN01BI6KxM23cSUnbs0KS_!!651807276.jpg_180x180.jpg",
+        "merchant": "meizi198812",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=8846842604"
+      },
+      {
+        "_id": 759110873346,
+        "name": " ផលិតផលស្បែកជើងស្មាតហ្វូនស៊ុបនិងស្បែកជើងផ្ការបស់ស្មាតហ្វូននិងគ្រឿងផ្ការីករាយការតុបតែងតុបតែង DIY Carloch ប្រាជ្ញា",
+        "price": {
+          "minPrice": 0.42,
+          "maxPrice": 0.42
+        },
+        "promoPrice": {
+          "minPrice": 0.42,
+          "maxPrice": 0.42
+        },
+        "stock": 0,
+        "sold": 0,
+        "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i2/688853395/O1CN01LFQycU1awxYTPQ2tX_!!688853395.jpg_180x180.jpg",
+        "merchant": "沈冰玉2011",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=661999718626"
+      },
+      {
+        "_id": 618182139955,
+        "name": " ករណីទូរស័ព្ទចល័តស៊ីលីខនខ្នាតតូចថ្មីរបស់រដូវស្លឹកឈើជ្រុះថ្មីនៃរដូវស្លឹកឈើជ្រុះថ្មីនៃរដូវស្លឹកឈើជ្រុះថ្មី 4.7-7.3 អ៊ីញប្រភេទទូរស័ព្ទចល័តរបស់បុរសនិងស្ត្រី",
+        "price": {
+          "minPrice": 1.15,
+          "maxPrice": 1.15
+        },
+        "promoPrice": {
+          "minPrice": 1.15,
+          "maxPrice": 1.15
+        },
+        "stock": 4,
+        "sold": 4,
+        "mainImage": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i2/1654188834/O1CN01epu9xv2F81RRjY66D_!!0-item_pic.jpg_180x180.jpg",
+        "merchant": "手机皮套专家",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=759110873346"
+      },
+      {
+        "_id": 708545832756,
+        "name": " Lenovo Lenovo ពេញអេក្រង់ Mp3 មើលរឿងប្រលោមលោកនិងស្តាប់ឯកសារនិស្សិតប៊្លូធូសកម្មវិធីចាក់ប្លាស្ទិច MP4 របស់អ្នកកម្មវិធី MP4 ",
+        "price": {
+          "minPrice": 14.35,
+          "maxPrice": 14.35
+        },
+        "promoPrice": {
+          "minPrice": 33.17,
+          "maxPrice": 33.17
+        },
+        "stock": 8,
+        "sold": 8,
+        "mainImage": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i1/2206524142913/O1CN011gG2oH1XOCZ2Dd24W_!!0-item_pic.jpg_180x180.jpg",
+        "merchant": "明阳数码专营店",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=618182139955"
+      },
+      {
+        "_id": 696191487854,
+        "name": " រន្ធដោតកាតខាងក្រៅប្រព័ន្ធប្រតិបត្តិការ Android និងផ្ញើស៊ីមកាតស៊ីមកាតស៊ីមកាតអេឡិចត្រូនិចកាតអេឡិចត្រូនិចអេឡិចត្រូនិចផ្លាស់ប្តូរកាតយ៉ាងរហ័សដើម្បីបើកកាត",
+        "price": {
+          "minPrice": 3.27,
+          "maxPrice": 3.27
+        },
+        "promoPrice": {
+          "minPrice": 3.27,
+          "maxPrice": 3.27
+        },
+        "stock": 100,
+        "sold": 100,
+        "mainImage": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i1/2502710113/O1CN01W4o9Cp1ChnY7d6eGy_!!2502710113.jpg_180x180.jpg",
+        "merchant": "潮爆数码科技",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=708545832756"
+      },
+      {
+        "_id": 600757959552,
+        "name": " អាចប្រើបានតាមទូរស័ព្ទចល័តអេសអេមអេសអេសអេសអេសអេមអេសអេសបានកំណត់សាំស៊មសាមៀស៊្រីប៉ូប៉ូដែលមានសែលការពារផ្ទះរបស់ Silicone ដែលមានម៉ូដែលវែងគឺងាយស្រួលសម្រាប់ការប្រឆាំងនឹងការប្រឆាំងនឹងការលុបចោល",
+        "price": {
+          "minPrice": 2.08,
+          "maxPrice": 2.08
+        },
+        "promoPrice": {
+          "minPrice": 2.25,
+          "maxPrice": 2.25
+        },
+        "stock": 58,
+        "sold": 58,
+        "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i2/843824140/O1CN01N6jP6P1gSAGPrJ1sG_!!843824140.jpg_180x180.jpg",
+        "merchant": "proe_er",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=696191487854"
+      },
+      {
+        "_id": 22272883204,
+        "name": " ការធ្វើឱ្យការជូតខ្សែអេក្រង់ទូរស័ព្ទ iPhone 645 របស់កាសែត Iphone655 របស់កាសែត Iphone645 ប្រអប់ប្រអប់ទាញយកខ្សែបញ្ចប់ការភ្ជាប់បញ្ចប់ការការពារហានិភ័យ",
+        "price": {
+          "minPrice": 1.01,
+          "maxPrice": 1.01
+        },
+        "promoPrice": {
+          "minPrice": 1.01,
+          "maxPrice": 1.01
+        },
+        "stock": 1,
+        "sold": 1,
+        "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/T1s4mOXAtdXXXXXXXX_!!0-item_pic.jpg_180x180.jpg",
+        "merchant": "超级vs宝贝",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=600757959552"
+      },
+      {
+        "_id": 684390915932,
+        "name": " ការលៃតម្រូវ Huaomawa បានផ្តាច់ការលៃតម្រូវរបស់កាបូបស្ពាយទូរស័ព្ទចល័តកាបូបទូរស័ព្ទចល័ត Cumbelo -back Roceb ពណ៌ត្នោតដែលត្បាញដោយខ្សែរត្បាញថុលត្បាញ",
+        "price": {
+          "minPrice": 4.89,
+          "maxPrice": 4.89
+        },
+        "promoPrice": {
+          "minPrice": 5.63,
+          "maxPrice": 5.63
+        },
+        "stock": 100,
+        "sold": 100,
+        "mainImage": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i2/142176538/O1CN010XrzQa1yASG7DVNDy_!!142176538.jpg_180x180.jpg",
+        "merchant": "kianteck",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=22272883204"
+      },
+      {
+        "_id": 17866401956,
+        "name": " វត្ថុទំនេរផ្ទាល់ខ្លួនត្រូវបានប្រើដើម្បីប្រើ *** Dell Dell PDAX50V / X51V នៅលើកុំព្យួទ័រ",
+        "price": {
+          "minPrice": 58.34,
+          "maxPrice": 58.34
+        },
+        "promoPrice": {
+          "minPrice": 58.34,
+          "maxPrice": 58.34
+        },
+        "stock": 0,
+        "sold": 0,
+        "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/19616021388974089/T1LeB6XExeXXXXXXXX_!!0-item_pic.jpg_180x180.jpg",
+        "merchant": "buglovebug",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=684390915932"
+      },
+      {
+        "_id": 722075617100,
+        "name": " ប៊្លូធូសវីសប៊ូស្តុន 5.0 ជេហ្វឺរបន្ទះឈីបប៊្លូធូស - ប៊្លូធូសប៊្លូធូស -type ប៊្លូធូសប៊្លូធូស - ខ្សែទូរស័ព្ទប៊្លូធូសប៊្លូធូសត្រូវបានកាត់ដោយ 100 ma ",
+        "price": {
+          "minPrice": 1,
+          "maxPrice": 1
+        },
+        "promoPrice": {
+          "minPrice": 1,
+          "maxPrice": 1
+        },
+        "stock": 3,
+        "sold": 3,
+        "mainImage": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i1/2211060602191/O1CN01Q2D0sc1S3WcpozvSo_!!2211060602191.jpg_180x180.jpg",
+        "merchant": "tb0619859807",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=17866401956"
+      },
+      {
+        "_id": 764596736661,
+        "name": " វាសមស្របសម្រាប់ក្រុម Huaqiang Strate iWatch7 Strap របស់ Me987654321 ក្រុម Meef Microsan Meanc Micanan Meainan S99754321 S9ulostr ",
+        "price": {
+          "minPrice": 1.8,
+          "maxPrice": 1.8
+        },
+        "promoPrice": {
+          "minPrice": 2.27,
+          "maxPrice": 2.27
+        },
+        "stock": 6,
+        "sold": 6,
+        "mainImage": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i1/181589762/O1CN01NjiOqJ2Lz3H3dkyka_!!181589762.jpg_180x180.jpg",
+        "merchant": "心心连锁通讯",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=722075617100"
+      },
+      {
+        "_id": 630194971610,
+        "name": " ឆ្នាំងសាកក្រុមហ៊ុនជំនួយទូរស័ព្ទចល័តរបស់ក្រុមហ៊ុន Apple ដែលអាចអនុវត្តបានក្រុមហ៊ុន Huawei / Vivo / Oppo / Xiaomi 111 ការប្រឆាំងនឹងការប្រឆាំងនឹងការប្រឆាំង",
+        "price": {
+          "minPrice": 0.41,
+          "maxPrice": 0.41
+        },
+        "promoPrice": {
+          "minPrice": 0.47,
+          "maxPrice": 0.47
+        },
+        "stock": 18,
+        "sold": 18,
+        "mainImage": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i4/2210466136/O1CN01iqVv3W1vCKtFezR4t_!!0-item_pic.jpg_180x180.jpg",
+        "merchant": "lunaluno数码旗舰店",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=764596736661"
+      }
+    ]
+  }
+}
